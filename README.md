@@ -63,6 +63,9 @@ This project hosts a **Voiceflow-based AI agent** built for **Conor's Cleaning**
 6. **Lead details are captured** for CRM.
 7. **Conversation is closed** after data capture.
 
+![structure](assets/diagram.png)
+
+---
 ![Workflow Map](assets/voiceflow-export-1745575796574.png)
 
 ---
