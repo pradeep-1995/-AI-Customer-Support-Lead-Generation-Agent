@@ -3,6 +3,8 @@
 This project hosts a **Voiceflow-based AI agent** built for **Conor's Cleaning**, enabling instant customer support, real-time quotes, and automatic lead generation — deployable on both **Web** and **Phone** channels.
 
 ---
+![Workflow Diagram](assets/workflow designe.jpg)
+
 ## 🎯 Purpose
 
 - Instantly answer customer inquiries.
@@ -61,7 +63,7 @@ This project hosts a **Voiceflow-based AI agent** built for **Conor's Cleaning**
 6. **Lead details are captured** for CRM.
 7. **Conversation is closed** after data capture.
 
-![Workflow Map](assets/voiceflow-export.png)
+![Workflow Map](assets/voiceflow-export-1745575796574.png)
 
 ---
 
@@ -90,7 +92,7 @@ This project hosts a **Voiceflow-based AI agent** built for **Conor's Cleaning**
 
 For setup support or customizations, contact:
 
-![Chat Bot](assets/voiceflow-export.png)
+![Chat Bot](assets/chatbot.jpg)
 
 - **Conor's Cleaning**
 - 📍 247 Beacon Street, Boston, MA 02116
