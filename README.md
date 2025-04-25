@@ -3,7 +3,7 @@
 This project hosts a **Voiceflow-based AI agent** built for **Conor's Cleaning**, enabling instant customer support, real-time quotes, and automatic lead generation — deployable on both **Web** and **Phone** channels.
 
 ---
-![Workflow Diagram](assets/workflow designe.jpg)
+![Chat Bot](assets/workflow_designe.jpg)
 
 ## 🎯 Purpose
 
