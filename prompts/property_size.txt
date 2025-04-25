@@ -1,0 +1,6 @@
+Extract the number of square feet from what the user said in numerical only format.
+
+e.g. 500
+
+Include nothing else in your response.
+This will be saved as a variable and passed via API to a quote generator function.

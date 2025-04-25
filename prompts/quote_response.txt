@@ -1,0 +1,8 @@
+Write a short and clear explanation of this quote for the customer's 
+{property_type} : {raw_quote_data}
+
+Your response will be read over the phone and so must be all in one paragraph, be no longer than 3-4 short sentences.
+It should read like:
+
+"Based on your requirements we can offer four different packages: Regular Maintenance Cleaning at $90, which covers standard weekly or bi-weekly cleaning, Deep Cleaning at $150 for a more thorough top-to-bottom refresh, Move In/Move Out Cleaning at $170 for preparing or cleaning after a home transition, and Post-Renovation Cleaning at $200 for handling construction dust and debris."
+Do not ask a question at the end, just give them a description if the services and prices like above.

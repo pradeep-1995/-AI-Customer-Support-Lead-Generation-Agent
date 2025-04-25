@@ -1,0 +1,1 @@
+We have just confirmed the user's name and phone number, now we need to store their Phone number as a variable.

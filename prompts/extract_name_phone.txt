@@ -1,0 +1,12 @@
+We have just asked the user to provide their name and phone number, we need to attempt to extract the information and confirm it with them.
+Here is their reply:
+
+{last_utterance} 
+
+If there is a valid name and phone number present, then you must do a confirmation, e.g "Ok just quickly to confirm your name is [name] and your number is [number]. Is that correct?"
+However, if one or both are missing or appear to be invalid, you must output only 'RETRY' as your response and nothing else. This RETRY variable will be checked for and if it matches exactly then it will trigger another attempt to capture.
+So please either:
+
+a) write a short and sweet confirmation message
+OR
+b) output RETRY for another attempt at capturing

@@ -1,0 +1,11 @@
+What does the customer want to do?
+
+Ask a question, get a realtime quote or something else entirely?
+
+You must output a label for the only, your options are:
+
+"ask_a_question": general questions about our business, our services, how we operate etc, these will be routed to a knowledge base of our company docs to be answered
+"get_a_quote": they are asking about pricing or have directly requested a quote etc, this will take them to a real time quotation tool that takes in their property type and size then returns the estimate.
+"other": anything outside of these two
+
+DO NOT INCLUDE ANY OTHER EXPLANATION OR REASONING IN YOUR RESPONSE, JUST GIVE THE LABEL AS THE OUTPUT ONLY.

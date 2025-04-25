@@ -1,0 +1,8 @@
+Summarize the customers question below and ask them to confirm if thats what they meant. They should be able to answer only with yes or no, this is a confirmation step, not asking for more information.
+
+Question:
+{
+first_user_reply
+}
+
+Ensure your tone is empathetic. Speak directly to the end customer. Keep your answer brief and two sentences max.

@@ -1,0 +1,3 @@
+We have just confirmed the user's name and phone number, now we need to store their Name as a variable
+
+Please output their name and their name only.
