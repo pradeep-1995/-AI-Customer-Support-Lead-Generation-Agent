@@ -105,6 +105,6 @@ For setup support or customizations, contact:
 
 Serving the Greater Boston area since 2018, Conor’s Cleaning offers premium residential and commercial cleaning services with eco-friendly products, certified professionals, and a 100% satisfaction guarantee.
 
-[View Full Knowledge Base](knowledge_base/Conors_Cleaning_Knowledge_Base.pdf)
+[View Full Knowledge Base](knowledge_base/Conor'sCleaning-KnowledgeBaseDocument.docx.pdf)
 
 ---
